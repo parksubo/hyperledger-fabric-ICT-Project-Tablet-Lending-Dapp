@@ -1,4 +1,4 @@
-# Teamate 예제 실행방법 및 순서
+# Tablet 실행방법 및 순서
 
 ## 1. Network 실행
 
@@ -28,10 +28,9 @@ application 경로에서
 
 - npm install
 
-## 5. invoke/query 실행 또는 서버 실행
+## 5. 서버 실행
 
 application 경로에서
 
-- node query.js : readRating 실행
-- node invoke.js : readRating and addRating 실행
-- node server.js : teamate 어플리케이션 웹서버 실행
+- node addWallet.js : 지갑 발행 (테스트 위함)
+- node server.js : tablet 어플리케이션 웹서버 실행
